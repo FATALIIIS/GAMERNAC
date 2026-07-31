@@ -1,0 +1,50 @@
+GITHUB
+
+1º Clonar o repositório
+------------------------------
+-entrar na pasta do servidor
+-copiar o endereço
+(C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www)
+-abrir o terminal
+digitar:
+cd C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www
+
+-depois enter
+-volta no GitHub, aperta o botão verde CODE
+-copiar o endereço do repositório
+<<https://github.com/ggfrancagg/Gamernac.git>> por ex.
+
+-volta no terminal
+-e  digita:
+git clone https://github.com/ggfrancagg/Gamernac.git
+-logue no git e autorize
+
+========================================
+
+1ª vez após clonar
+
+É preciso configurar o usuário e email.
+
+git config user.name "usuário"
+git config user.email "email"
+
+===================================
+
+p/ subir
+>>git add -A
+>>git commit -m "mensagem"
+>>git push
+
+p/ receber
+>>git pull
+
+
+RESET
+-----------------------
+git reset --hard origin
+
+
+
+
+
+
