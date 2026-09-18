@@ -7,3 +7,6 @@ HTML5, CSS3, pHp, MySQL, JavaScript
 # Sobre o site
 O nosso site foi criado como uma ideia de tentar fazer uma interface elegante e responsiva de um site de jogos, consoles e derivados, utilizando as linguagens acima descritas.
 Nosso objetivo foi concluído em 1 semana e meia, trabalhando em conjunto com toda a turma, utilizando a interface do GitHub para baixar e subir arquivos novos e realizar as commits.
+
+# Minha parte
+Eu fiquei responsável por toda a parte de back-end do site, banco de dados e também a parte lógica do front-end, garantindo funcionalidade para todo o site.
