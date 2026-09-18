@@ -9,7 +9,8 @@ O nosso site foi criado como uma ideia de tentar fazer uma interface elegante e 
 Nosso objetivo foi concluído em 1 semana e meia, trabalhando em conjunto com toda a turma, utilizando a interface do GitHub para baixar e subir os arquivos novos e realizar as commits.
 
 # Modelo Conceitual da Estrutura do "Gamernac"
-<img width="1084" height="582" alt="image" src="https://github.com/user-attachments/assets/ca82caa5-1239-4768-a552-e216eb1a8b50" />
+<img width="1711" height="919" alt="image" src="https://github.com/user-attachments/assets/e288a8b3-f4a5-4d65-82f7-590882741e08" />
+
 
 # Atuação no Desenvolvimento
 Fiquei responsável pelo desenvolvimento de grande parte do back-end do site, pela estruturação e integração do banco de dados e pela implementação da lógica do front-end, garantindo o funcionamento e a integração das funcionalidades do site.
