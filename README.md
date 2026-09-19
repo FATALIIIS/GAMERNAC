@@ -13,5 +13,5 @@ Modelo conceitual utilizado para o projeto do Gamernac, onde decidimos os atribu
 <img width="1711" height="919" alt="image" src="https://github.com/user-attachments/assets/e288a8b3-f4a5-4d65-82f7-590882741e08" />
 
 # Atuação no Desenvolvimento
-Fiquei responsável pelo desenvolvimento de grande parte do back-end do site, pela estruturação e integração do banco de dados e pela implementação da lógica do front-end, garantindo o funcionamento e a integração das funcionalidades do site.
+Fiquei responsável pelo desenvolvimento de grande parte do back-end do site, pela estruturação e inserção do banco de dados e pela implementação da lógica do front-end, garantindo o funcionamento e a integração das funcionalidades do site.
 
